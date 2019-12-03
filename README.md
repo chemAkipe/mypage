@@ -1,0 +1,2 @@
+# mypage
+Github Pages sample
